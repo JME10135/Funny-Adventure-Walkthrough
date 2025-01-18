@@ -1,5 +1,7 @@
 <h3>Walkthrough for Funny Adventure</h3>
 
+![](https://github.com/JME10135/Funny-Adventure-Walkthrough/blob/JME10135-patch-1/Images%5BSPOILERS%5D/Front.png)
+
 This is a medal walkthrough for Funny Adventure by BlahBlah508 on Newgrounds. You can play it [here](https://www.newgrounds.com/portal/view/659880).
 
 To avoid spoilers for those who are stuck but still want to figure out the puzzles on their own, this walkthrough uses the expand/collapse text element. Click on an arrow to get one hint at a time.
@@ -184,7 +186,7 @@ WARNING: Pressing tab at any time during the game takes you back to the main men
 
   - <details><summary>Spoiler pic</summary>
   
-    ![](https://github.com/JME10135/Test/blob/JME10135-patch-1/J.png)
+    ![](https://github.com/JME10135/Funny-Adventure-Walkthrough/blob/JME10135-patch-1/Images%5BSPOILERS%5D/2-6.png)
     </details>
   
 - <details><summary>Stage 2-7</summary>
@@ -230,7 +232,7 @@ WARNING: Pressing tab at any time during the game takes you back to the main men
 
     - After you have clicked the Gemini sign, click the Aquarius sign (pointed on with green). Then enter the pit. The pit should glow red before you enter it. Down there you can click on the piece of paper that shows 508. You need to click all 5 pieces through the game in order to be able to achieve some of the endings. If you entered the pit without the puzzle piece you won't get a certain medal at the end.
 
-    ![](https://github.com/JME10135/Test/blob/JME10135-patch-1/J.png)
+    ![](https://github.com/JME10135/Funny-Adventure-Walkthrough/blob/JME10135-patch-1/Images%5BSPOILERS%5D/508.png)
     </details>
   </details>
 
@@ -241,7 +243,8 @@ WARNING: Pressing tab at any time during the game takes you back to the main men
   - <details><summary>PUZZLE PIECE</summary>
   
     - Click on the piece of paper that shows 3 to be able to unlock something at the end (but you need all 5 pieces to do so).
-    ![](https://github.com/JME10135/Test/blob/JME10135-patch-1/J.png)
+
+    ![](https://github.com/JME10135/Funny-Adventure-Walkthrough/blob/JME10135-patch-1/Images%5BSPOILERS%5D/3.png)
     </details>
   </details>
   
@@ -308,11 +311,11 @@ WARNING: Pressing tab at any time during the game takes you back to the main men
  
   - Go to mars and click on the door. (You can use the translator on the alien)
 
-  - <details><summary>PUZZLE PIECE/summary>
+  - <details><summary>PUZZLE PIECE</summary>
  
     - While on mars, click on the puzzle piece that reads 27. You can barely see the 2 at the edge of the screen behind the door. Collect all 5 pieces through the game to unlock some alternative endings at the end.
 
-    ![](https://github.com/JME10135/Test/blob/JME10135-patch-1/J.png)
+    ![](https://github.com/JME10135/Funny-Adventure-Walkthrough/blob/JME10135-patch-1/Images%5BSPOILERS%5D/27.png)
     </details>
   </details>
   
@@ -582,7 +585,7 @@ WARNING: Pressing tab at any time during the game takes you back to the main men
 
     - Click on what resembles the frame of the number puzzle. If you collect all 5 pieces you can choose additional endings when you have completed the game.
 
-    ![](https://github.com/JME10135/Test/blob/JME10135-patch-1/J.png)
+    ![](https://github.com/JME10135/Funny-Adventure-Walkthrough/blob/JME10135-patch-1/Images%5BSPOILERS%5D/frame.png)
     </details>
   </details>
   
@@ -789,7 +792,7 @@ WARNING: Pressing tab at any time during the game takes you back to the main men
     
   - <details><summary>Here is a cheat note:</summary>
     
-    ![](https://github.com/JME10135/Test/blob/JME10135-patch-1/J.png)
+    ![](https://github.com/JME10135/Funny-Adventure-Walkthrough/blob/JME10135-patch-1/Images%5BSPOILERS%5D/9-8.png)
     </details>
   </details>
   
@@ -899,7 +902,7 @@ WARNING: Pressing tab at any time during the game takes you back to the main men
 
     - Click on the paper piece in the tree. It is the last piece of 5 and has the numbers 1496 written on it. If you have collected all of them you can reveal some extra endings at the end.
 
-    ![](https://github.com/JME10135/Test/blob/JME10135-patch-1/J.png)
+    ![](https://github.com/JME10135/Funny-Adventure-Walkthrough/blob/JME10135-patch-1/Images%5BSPOILERS%5D/1496.png)
     </details>
   </details>
   
@@ -966,14 +969,14 @@ WARNING: Pressing tab at any time during the game takes you back to the main men
 
         - <details><summary>Here are all the pieces</summary>
   
-          ![](https://github.com/JME10135/Test/blob/JME10135-patch-1/J.png)
+          ![](https://github.com/JME10135/Funny-Adventure-Walkthrough/blob/JME10135-patch-1/Images%5BSPOILERS%5D/UnsolvedState.png)
        
           - Note that it is a 1 in 1496 and not a 7.
           </details>
 
         - <details><summary>Here is the solved puzzle [big spoiler]</summary>
   
-          ![](https://github.com/JME10135/Test/blob/JME10135-patch-1/J.png)
+          ![](https://github.com/JME10135/Funny-Adventure-Walkthrough/blob/JME10135-patch-1/Images%5BSPOILERS%5D/SolvedState.png)
        
           - 5083271496
           </details>
