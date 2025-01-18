@@ -92,7 +92,7 @@ WARNING: Pressing tab at any time during the game takes you back to the main men
   
 - <details><summary>Stage 1-8</summary>
 
-  - These are hieroglyphs. You should be able to find the answer by searching the interned for pictures of them and then testing around with solutions.
+  - These are hieroglyphs. You should be able to find the answer by searching the internet for pictures of them and then testing around with solutions.
 
   - <details><summary>Answer</summary>
 
@@ -273,12 +273,12 @@ WARNING: Pressing tab at any time during the game takes you back to the main men
   
 - <details><summary>Stage 3-7</summary>
 
-  - Click on what best resemble a handle. It it mostly yellow.
+  - Click on what best resembles a handle. It it mostly yellow.
   </details>
   
 - <details><summary>Stage 3-8</summary>
 
-  - <details><summary>There is a hidden red dod somewhere</summary>
+  - <details><summary>There is a hidden red dot somewhere</summary>
 
     - It is on the number 9 on the clock.
     </details>
@@ -773,7 +773,7 @@ WARNING: Pressing tab at any time during the game takes you back to the main men
   
 - <details><summary>Stage 9-6</summary>
 
-  - 7.Well...... I kind of enjoy this game though., 8.Actually, I had share it to Pandora already!, 9.Yes she did!, 10.Mt. Fruitwer   6995M, 11.I like this game after I rege quit 50 times!, 12.Trololo(the last word in the question)
+  - 7.Well...... I kind of enjoy this game though., 8.Actually, I had share it to Pandora already!, 9.Yes she did!, 10.Mt. Fruitwer   6995M, 11.I like this game after I rage quit 50 times!, 12.Trololo(the last word in the question)
   </details>
   
 - <details><summary>Stage 9-7</summary>
@@ -860,7 +860,7 @@ WARNING: Pressing tab at any time during the game takes you back to the main men
 
 - <details><summary>Stage 10-4</summary>
 
-  - Drag six invisible tiles to uncover the code There are three on each side. One of them covers the 1 in 10-4 and one is in the red circle.
+  - Drag six invisible tiles to uncover the code. There are three on each side. One of them covers the 1 in 10-4 and one is in the red circle.
  
   - <details><summary>Put the code from up and downward in a zig zag pattern starting like the red circle and arrow shows.</summary>
  
@@ -879,7 +879,7 @@ WARNING: Pressing tab at any time during the game takes you back to the main men
 
     - <details><summary>Experiment a bit with the keyboard.</summary>
  
-      - Hold the right arrow key down to move the coconut. Continue to hold it down until the red dod behind also moves out of the way. Click on the revealed small coconut.
+      - Hold the right arrow key down to move the coconut. Continue to hold it down until the red dot behind also moves out of the way. Click on the revealed small coconut.
       </details>
     </details>
   </details>
@@ -887,6 +887,7 @@ WARNING: Pressing tab at any time during the game takes you back to the main men
 - <details><summary>Stage 10-6</summary>
   
   - <details><summary>First phase</summary>
+
     - <details><summary>Time for some search on the internet</summary>
 
       - It is a very large molecule which spelled would contain 189819 letters.
@@ -939,7 +940,7 @@ WARNING: Pressing tab at any time during the game takes you back to the main men
 
   - <details><summary>Final boss battle (shield part)</summary>
 
-    - Avoit the red shuriken-like projectiles and wait at the middle of the bottom for the red walls to trap you and force you upwards. There is no red orb. To deplete the shield you need to wait for the move the cursor forth and back between the number for how much shield it is left and the actual shield. It works best if you move the mouse horizontally in the middle of the screen at that height. **You can only deplete the shield between the secont and the third shuriken attack.** Stay in the middle during the second attack so you are ready.
+    - Avoid the red shuriken-like projectiles and wait at the middle of the bottom for the red walls to trap you and force you upwards. There is no red orb. To deplete the shield you need to move the cursor forth and back between the number for how much shield it is left and the actual shield. It works best if you move the mouse horizontally in the middle of the screen at that height. **You can only deplete the shield between the secont and the third shuriken attack.** Stay in the middle during the second attack so you are ready.
    
     - If you have not used the click-and-hold-down cheat yet it could be time to make an exception.
     </details>
@@ -953,7 +954,7 @@ WARNING: Pressing tab at any time during the game takes you back to the main men
 
 - <details><summary>The first ending</summary>
 
-  - You get this if the final boss manages to escape after you have depleted the shield completeld.
+  - You get this if the final boss manages to escape after you have depleted the shield completely.
 
   - <details><summary>The second ending</summary>
  
